@@ -40,8 +40,3 @@ public class HelloService
 
 [Furion](https://gitee.com/dotnetchina/Furion) 采用 [MIT](https://gitee.com/dotnetchina/Furion/blob/v4/LICENSE.zh) 开源协议。
 
-## 赞助
-
-如果 Furion 对您有所帮助，并且您希望 Furion 能够继续发展下去，请考虑 [赞助](http://furion.baiqian.ltd/docs/donate) 我们。
-
-[![](./handbook/static/img/crmeb-spec.jpg)](http://github.crmeb.net/u/furion)
